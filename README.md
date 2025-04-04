@@ -1,1 +1,1 @@
-My solutions to C programming's labs\
+My solutions to C programming's labs
